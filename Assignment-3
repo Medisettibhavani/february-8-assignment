@@ -1,0 +1,4 @@
+print('converting kms into cms') 
+a=int(input('enter the kilometers')) 0
+b=a*100
+print(b,'cm') 
